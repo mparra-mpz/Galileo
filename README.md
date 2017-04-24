@@ -1,2 +1,2 @@
 # Galileo
-Repository for my definitive robotic project.
+Repository for my definitive robotic project. Reviwe the wiki for more details.
